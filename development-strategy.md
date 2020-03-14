@@ -1,5 +1,5 @@
 
-# Even of Odd: development strategy
+# javascript-30 : development strategy
 
 Building this site one step at a time
 
