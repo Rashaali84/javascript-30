@@ -1,48 +1,29 @@
-
 # javascript-30 : development strategy
 
 Building this site one step at a time
 
 ## 0. Setup
 
-* `index.html` and folder structure with empty files
+- Create `index.html`, as a main page for the whole project .
+- Create `style.css`, and basic empty folder `images`.
+- Create for each exercise of the group work an empty folder
+- Create empty folders to have each team member solo work .
+- Create .github folder which has templates for PullRequest and BugReport for the kanban project board issues .
+- Create license file for the repository.
+- Send invitations for collaborators of the project .
 
-## 1. Data & Log
+## 1. Plan & Log
 
-* `data/.js` & `log.js`
+- `ReadMe.MD` & `Development-Strategy.MD`, to log the project planning and strategy for the whole project follow
 
 ## 2. Init (not finished!)
 
-* The code in `init.js` 
-  
-* `index.html` is complete, just waiting for the code behind it
+- `Development-Strategy` is complete for the project strategy plan .
 
-## 3. User Story: ``
+- `index.html` is complete with links as planned , just waiting for the code behind it.
 
-* A user can reset stat & see a cleared User Interface
-* I wrote the code in `listeners/reset.js` & `handlers/reset.js`
-* The handler function resets the `strings` object to it's initial values (the values in the source code), and re-renders the same UI as `init.js`.  in `listeners/reset.js` the handler is connected to the UI with a `click` event.
+## 3. User Story: `Create a whole project interface for the javascript-30 videos`
 
-## 4. User Story: ___
-
-> * which user story makes sense to code first?
-> * which files of code do you need to change?
-> * what are you changing in them?
-
-## 5. User Story: ___
-
-> * which user story makes sense to code first?
-> * which files of code do you need to change?
-> * what are you changing in them?
-
-## 6. User Story: ___
-
-> * which user story makes sense to code first?
-> * which files of code do you need to change?
-> * what are you changing in them?
-
-## 7. User Story: ___
-
-> * which user story makes sense to code first?
-> * which files of code do you need to change?
-> * what are you changing in them?
+- A user can brows the website and see 4 main sections ( first section will be for Group Work for group exercises links while other three sections , will be dedicated to each team member for his solo work ).
+- User can browse the whole project exercises through the main page.
+- Each exercise will have his own index.html,and his own folder which has all related files and his own access link from the main page .

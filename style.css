@@ -1,0 +1,15 @@
+body {
+  font: "Lucida Grande", "Lucida Sans", Tahoma, Verdana, sans-serif;
+  background: url(images/wallpaper.png) repeat;
+  color: #000000;
+  text-align: left;
+  border: currentColor;
+}
+
+#wrapper {
+  width: 980px;
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #ffffff;
+}
