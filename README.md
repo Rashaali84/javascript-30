@@ -101,7 +101,7 @@ As you work your way through the 30 challenges you should check them off in the 
 
 > Each time you finish one of these challenges, check it off and provide a link to the main group repository - not your fork! (unless yours is the main group repo.)
 
-- [ ] 01 - [drum kit]()
+- [-] 01 - [drum kit]()
 - [ ] 02 - [clock]()
 - [ ] 03 - [css variables]()
 - [ ] 05 - [flex panel gallery]()
