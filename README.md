@@ -133,13 +133,14 @@ As you work your way through the 30 challenges you should check them off in the 
 ### For Solo Study
 
 > Each time you finish one of these, check it off and provide a link to the repository with your finished code
+>All done so far :
 
-- [ - ] 04 - [array cardio day 1]()
-- [ - ] 06 - [array cardio day 2]()
-- [ - ] 09 - [dev tools domination]()
-- [ - ] 14 - [javascript reverences vs copying]()
-- [ - ] 18 - [Adding Up Times with Reduce]()
-- [ - ] 25 - [Event Capture, Propagation, Bubbling]()
+- [:heavy_check_mark:] 04 - [array cardio day 1]()
+- [:heavy_check_mark:] 06 - [array cardio day 2]()
+- [:heavy_check_mark:] 09 - [dev tools domination]()
+- [:heavy_check_mark:] 14 - [javascript reverences vs copying]()
+- [:heavy_check_mark:] 18 - [Adding Up Times with Reduce]()
+- [:heavy_check_mark:] 25 - [Event Capture, Propagation, Bubbling]()
 
 [TOP](#javascript-30)
 
