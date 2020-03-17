@@ -134,7 +134,7 @@ As you work your way through the 30 challenges you should check them off in the 
 
 > Each time you finish one of these, check it off and provide a link to the repository with your finished code
 
-- [ ] 04 - [array cardio day 1]()
+- #[checkbox:checked] 04 - [array cardio day 1]()
 - [ ] 06 - [array cardio day 2]()
 - [ ] 09 - [dev tools domination]()
 - [ ] 14 - [javascript reverences vs copying]()
